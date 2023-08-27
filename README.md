@@ -20,7 +20,7 @@ Numerous varieties of fingerprints exist, with 'keyed' fingerprints denoting the
 
 ### **Types of Molecular Finger Print:**
 
-*   [x] **FP2**
+*   [x] **[FP2](./FP2_Fingerprint.ipynb)**
 *   [x] **FP3**
 *   [x] **FP4**
 *   [x] **Topological/Daylight**
