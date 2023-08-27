@@ -21,24 +21,24 @@ Numerous varieties of fingerprints exist, with 'keyed' fingerprints denoting the
 ### **Types of Molecular Finger Print:**
 
 *   [x] **[FP2](./FP2_Fingerprint.ipynb)**
-*   [x] **FP3**
-*   [x] **FP4**
-*   [x] **Topological/Daylight**
-*   [x] **Estate**
-*   [x] **Atompair**
-*   [x] **Torsions/Topological Torsion**
-*   [x] **MorganFingerprint**
-*   [x] **ECFP2 (ECFP- Extended Connectivity Fingerprint)**
-*   [x] **ECFP4**
-*   [x] **ECFP6**
-*   [x] **MACCS (MACCS - Molecular Access System Structure)**
-*   [x] **FCFP2 (FCFP- Feature Class Fingerprint)**
-*   [x] **FCFP4**
-*   [x] **FCFP6**
-*   [x] **Pharma 2D 2Point**
+*   [x] **[FP3](./FP3_Fingerprint.ipynb.ipynb)**
+*   [x] **[FP4]((./FP4_Fingerprint.ipynb)**
+*   [x] **[Topological/Daylight](./DayLight_Fingerprint.ipynb)**
+*   [ ] **Estate**
+*   [x] **[Atompair](./AtomPairsFingerprint.ipynb)**
+*   [x] **[Torsions/Topological Torsion](./TopologicalTorsionFingerprint.ipynb)**
+*   [x] **[MorganFingerprint](./MorganFingerprint.ipynb)**
+*   [x] **[ECFP2](./ECFP2_Fingerprint.ipynb) (ECFP- Extended Connectivity Fingerprint)**
+*   [x] **[ECFP4](./ECFP4_Fingerprint.ipynb)**
+*   [x] **[ECFP6](./ECFP6_Fingerprint.ipynb)**
+*   [x] **[MACCS](./MACCS_Fingerprints.ipynb) (MACCS - Molecular Access System Structure)**
+*   [x] **[FCFP2](./FCFP2Fingerprint.ipynb) (FCFP- Feature Class Fingerprint)**
+*   [x] **[FCFP4](./FCFP4Fingerprint.ipynb)**
+*   [x] **[FCFP6](./FCFP2Fingerprint.ipynb)**
+*   [x] **[Pharma 2D 2Point](./Pharm2D2pointFingerprint.ipynb)**
 *   [ ] **Pharma 2D 3Point**
 *   [ ] **PubChem**
-*   [x] **GhoseCrippen**
+*   [x] **[GhoseCrippen](./Ghose_Crippen_FP.ipynb)**
 
 
 
